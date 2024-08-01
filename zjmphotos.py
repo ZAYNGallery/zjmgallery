@@ -14,7 +14,7 @@ api = tweepy.API(auth)
 
 # Directory containing photos
 # Update this path based on where your photos are located in the branch
-photos_dir = 'photos'
+photos_dir = '.'
 
 # File to track tweeted photos
 tweeted_photos_file = 'tweeted_photos.json'
